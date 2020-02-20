@@ -1,0 +1,35 @@
+ID,ID
+Name,Name
+SKU,SKU
+Price,Price
+Position,Position
+"Something went wrong while getting the image url.","Something went wrong while getting the image url."
+MageSuite,MageSuite
+Configuration,Configuration
+"Sort Subcategories Alphabetically","Sort Subcategories Alphabetically"
+"Include in desktop navigation","Include in desktop navigation"
+"
+                        When enabled category will be shown in navigation for desktop and tablet devices.
+                    ","
+                        When enabled category will be shown in navigation for desktop and tablet devices.
+                    "
+"
+                        When enabled category will be shown in navigation for mobile devices.
+                    ","
+                        When enabled category will be shown in navigation for mobile devices.
+                    "
+"Include in mobile navigation","Include in mobile navigation"
+"Custom target URL","Custom target URL"
+"
+                        Links to this category will be replaced with above URL when provided. Use absolute URL (starts with https://) to redirect outside the shop. Use relative URL (i.e. customer/account/login/) to redirect within the shop.
+                    ","
+                        Links to this category will be replaced with above URL when provided. Use absolute URL (starts with https://) to redirect outside the shop. Use relative URL (i.e. customer/account/login/) to redirect within the shop.
+                    "
+"Navigation - Image Teaser","Navigation - Image Teaser"
+Image,Image
+Slogan,Slogan
+Description,Description
+"CTA Label","CTA Label"
+"CTA Target Link","CTA Target Link"
+"Navigation - Featured Products","Navigation - Featured Products"
+Header,Header

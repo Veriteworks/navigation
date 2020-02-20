@@ -1,0 +1,35 @@
+ID,ID
+Name,名前
+SKU,SKU
+Price,価格
+Position,ポジション
+"Something went wrong while getting the image url.","画像URLの取得中にエラーが発生しました。"
+MageSuite,MageSuite
+Configuration,設定
+"Sort Subcategories Alphabetically","サブカテゴリをアルファベット順にソートする"
+"Include in desktop navigation","デスクトップ表示のナビゲーションに含める"
+"
+                        When enabled category will be shown in navigation for desktop and tablet devices.
+                    ","
+                        有効にした場合はカテゴリがデスクトップとタブレット端末向けのナビゲーションに表示されます。
+                    "
+"
+                        When enabled category will be shown in navigation for mobile devices.
+                    ","
+                        有効にした場合はカテゴリがモバイル端末向けのナビゲーションに表示されます。
+                    "
+"Include in mobile navigation","モバイルナビゲーションに含める"
+"Custom target URL","カスタムターゲットURL"
+"
+                        Links to this category will be replaced with above URL when provided. Use absolute URL (starts with https://) to redirect outside the shop. Use relative URL (i.e. customer/account/login/) to redirect within the shop.
+                    ","
+                        このカテゴリへのリンクは上記のURLに置き換えられます。 https始まりのURLを使用すると、外部のサイトへリダイレクトできます。相対URL (例：customer/account/login/) の場合はサイト内にリダイレクトします。
+                    "
+"Navigation - Image Teaser","ナビゲーション - ティーザー画像"
+Image,画像
+Slogan,スローガン
+Description,概要
+"CTA Label","CTAラベル"
+"CTA Target Link","CTAターゲットリンク"
+"Navigation - Featured Products","ナビゲーション - ピックアップ商品"
+Header,ヘッダー
